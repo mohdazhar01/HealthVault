@@ -1,0 +1,48 @@
+{
+  "id": "24a32ef2-e995-46ac-8563-22a90f6acdb3",
+  "name": "prevmonth_avg_bp",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "defb389b-9145-422d-92a7-e6fff18140c6",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "date-period",
+          "value": "$date-period",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Your average blood pressure for previous month is 125/85 mm of Hg",
+            "Last month\u0027s average blood pressure is 125/85 mm of Hg",
+            "Previous month\u0027s average blood pressure is 125/85 mm of Hg"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

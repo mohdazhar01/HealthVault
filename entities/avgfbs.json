@@ -1,0 +1,9 @@
+{
+  "id": "640ef452-3cd8-4720-bbaf-2060c049c40d",
+  "name": "avgfbs",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "c6a32590-5f1a-4379-af7a-8b9a57a1b504",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg fbs",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b480e1bf-caba-4f0e-a4cb-9c743d97cc27",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg fbs",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "000f83fb-f4a2-491d-9519-a297e6a7e9e8",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average fasting blood glucose",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a1f75cc-d106-435d-a12c-92442a96c268",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg fasting blood sugar",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c984d196-ec98-409c-93a6-2b804ed43c93",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average fbs",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "570250c3-bb4e-4ca8-98a9-02da7e99d4db",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average Fasting Blood Sugar",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8952f06e-51c5-493f-85ed-4dbe984efda2",
+    "data": [
+      {
+        "text": "Last month\u0027s",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average Fasting Blood Sugar",
+        "alias": "avgfbs",
+        "meta": "@avgfbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

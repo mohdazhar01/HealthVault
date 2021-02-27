@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cf8b554c-6f26-45a7-b35f-40edeb8825c2",
+    "data": [
+      {
+        "text": "heart beat rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "74a1b937-cd49-4dee-9e7c-e986fb5286fe",
+    "data": [
+      {
+        "text": "heart rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8541def0-7ccd-4a0d-af50-d4f66864de88",
+    "data": [
+      {
+        "text": "PR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "041ecabf-850b-4331-a5cd-d95f51b6c591",
+    "data": [
+      {
+        "text": "pulse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c049314-a57e-42ff-a179-b76ab9c50573",
+    "data": [
+      {
+        "text": "Pulse Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

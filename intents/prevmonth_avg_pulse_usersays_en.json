@@ -1,0 +1,154 @@
+[
+  {
+    "id": "6cdcbc5c-1535-4710-94cf-0a6ef7e0371c",
+    "data": [
+      {
+        "text": "show my ",
+        "userDefined": false
+      },
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average pulse",
+        "alias": "avgpulserate",
+        "meta": "@avgpulserate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57657a8d-3b49-44b2-aef3-16c18796c49a",
+    "data": [
+      {
+        "text": "tell me my ",
+        "userDefined": false
+      },
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average pulse rate",
+        "alias": "avgpulserate",
+        "meta": "@avgpulserate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54e33b7e-cf95-4dbf-bce9-2876d8a4bd93",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg pr",
+        "alias": "avgpulserate",
+        "meta": "@avgpulserate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37c38218-5545-41f0-bd1e-537d7b8ef1d5",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg pulse rate",
+        "alias": "avgpulserate",
+        "meta": "@avgpulserate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aea67e08-61da-407a-9acd-004bfecbbb62",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average pulse rate",
+        "alias": "avgpulserate",
+        "meta": "@avgpulserate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c3d42c1-6666-4020-a0e1-95cd77032682",
+    "data": [
+      {
+        "text": "Last month\u0027s",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average pulse rate",
+        "alias": "avgpulserate",
+        "meta": "@avgpulserate",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

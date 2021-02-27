@@ -1,0 +1,37 @@
+[
+  {
+    "value": "BP",
+    "synonyms": [
+      "bp"
+    ]
+  },
+  {
+    "value": "BP value",
+    "synonyms": [
+      "BP value",
+      "bp value",
+      "BPvalue",
+      "bp level",
+      "BP level"
+    ]
+  },
+  {
+    "value": "mmHg",
+    "synonyms": [
+      "mmHg",
+      "mmhg",
+      "mm",
+      "Hg",
+      "mm of hg",
+      "MM of hg"
+    ]
+  },
+  {
+    "value": "blood pressure",
+    "synonyms": [
+      "blood pressure",
+      "Blood Pressure",
+      "blood pressure level"
+    ]
+  }
+]

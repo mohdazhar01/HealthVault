@@ -1,0 +1,9 @@
+{
+  "id": "aaf65a98-79f3-42a1-9510-e622d05b04b8",
+  "name": "uniqid",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": false
+}

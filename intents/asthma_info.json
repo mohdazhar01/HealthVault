@@ -1,0 +1,31 @@
+{
+  "id": "30123015-c559-4e85-a43b-cf6b7024b5a5",
+  "name": "asthma_info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Asthma is a long-term disease of the lungs. It\u0027s a chronic respiratory disease. It causes your airways to get inflamed and narrow and makes breathing difficult."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

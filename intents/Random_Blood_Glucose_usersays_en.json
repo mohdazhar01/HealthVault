@@ -1,0 +1,86 @@
+[
+  {
+    "id": "4575a5cd-2651-4b45-af35-756d8a8a743a",
+    "data": [
+      {
+        "text": "RBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfe4d241-1920-41d0-864e-6eac97269fb2",
+    "data": [
+      {
+        "text": "my random blood glucose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d7ba15d9-cce8-46db-94d2-dec13a27ddbe",
+    "data": [
+      {
+        "text": "my random blood sugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eecd1a3a-9c72-46f3-82fc-e75df0bbe095",
+    "data": [
+      {
+        "text": "Random Glucose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fab012b6-1677-4753-9a18-789c53b8d334",
+    "data": [
+      {
+        "text": "random sugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e057dba-dd76-4a77-bfe9-fa2d1126ef6a",
+    "data": [
+      {
+        "text": "Random Blood Sugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "086e8bc4-5e97-4bb7-8ef7-b44a83e510c3",
+    "data": [
+      {
+        "text": "Random Blood Glucose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

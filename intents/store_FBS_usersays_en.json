@@ -1,0 +1,118 @@
+[
+  {
+    "id": "0bb4f114-8882-47da-81ea-5171a9e32fe9",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "fbs value",
+        "alias": "fbsvalue",
+        "meta": "@fbsvalue",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "90",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78e58065-b5e0-4679-90a1-bf8dd91404ba",
+    "data": [
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "FBS",
+        "alias": "fbsvalue",
+        "meta": "@fbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0de6114f-4565-47c5-a9f4-bd4ffbf0d87e",
+    "data": [
+      {
+        "text": "fbs",
+        "alias": "fbsvalue",
+        "meta": "@fbsvalue",
+        "userDefined": true
+      },
+      {
+        "text": "95",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " is my fasting blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e1700fc-9bed-4a69-9e30-374a267f9d32",
+    "data": [
+      {
+        "text": "80",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fbs level",
+        "alias": "fbsvalue",
+        "meta": "@fbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f4dec00-2bcd-4a6e-be16-45bca5f72d00",
+    "data": [
+      {
+        "text": "75",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "fbs level",
+        "alias": "fbsvalue",
+        "meta": "@fbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

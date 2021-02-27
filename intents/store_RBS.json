@@ -1,0 +1,59 @@
+{
+  "id": "a794f4df-369c-45c9-8f62-c8019447c225",
+  "name": "store_RBS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "90e9f40c-efe3-4de5-9bee-8ad1b5a044d0",
+          "required": false,
+          "dataType": "@rbsvalue",
+          "name": "rbsvalue",
+          "value": "$rbsvalue",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        },
+        {
+          "id": "6a3150db-7e91-4a24-8a9c-b20bd88e1899",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Your Random Blood Sugar Level $number mg/dl is stored!",
+            "Your Random Blood Sugar Level $number mg/dl has been noted!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "3780542f-2fec-4701-819c-794dec003d16",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Hi! Please enter your ID followed by your password. Example : sam   sam@790",
+            "Hello! Please enter your ID followed by your password. Example : nathan   nathan@3423",
+            "Good day! Please enter your ID followed by your password. Example : diana   diana@45",
+            "Greetings! Please enter your ID followed by your password. Example :charles  charles@12"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

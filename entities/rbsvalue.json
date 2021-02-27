@@ -1,0 +1,9 @@
+{
+  "id": "5c6ce239-6fcd-4540-8fa3-af44f2fd660f",
+  "name": "rbsvalue",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

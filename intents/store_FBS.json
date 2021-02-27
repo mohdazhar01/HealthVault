@@ -1,0 +1,59 @@
+{
+  "id": "85c76ce8-44e3-42bf-a74e-4e1054ab7d47",
+  "name": "store_FBS",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ee0904dc-998f-4c54-a36c-60a6565c9bb2",
+          "required": false,
+          "dataType": "@fbsvalue",
+          "name": "fbsvalue",
+          "value": "$fbsvalue",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "7b1c2ada-02ac-43c5-848f-c1852272ab82",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Your Fasting Blood Sugar Level $number mg/dl is stored!",
+            "Your Fasting Blood Sugar Level $number mg/dl is saved!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

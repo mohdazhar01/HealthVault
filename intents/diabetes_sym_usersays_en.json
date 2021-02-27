@@ -1,0 +1,50 @@
+[
+  {
+    "id": "b0bb46e4-3cb3-4268-be39-b1027945a551",
+    "data": [
+      {
+        "text": "what are the symptoms of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b3ed2ec-57f0-4c7a-9816-fe02c9f3ebd9",
+    "data": [
+      {
+        "text": "tell me the symptoms of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f51f186-1027-4775-9e5a-1852904e7dda",
+    "data": [
+      {
+        "text": "symptoms of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ee967f6-fcf8-4f46-a401-fc6902a18bbb",
+    "data": [
+      {
+        "text": "i want to know the symptoms of diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

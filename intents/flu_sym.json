@@ -1,0 +1,31 @@
+{
+  "id": "b7517343-d6c1-476a-a9da-43df10a7b5a5",
+  "name": "flu_sym",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Common signs and symptoms of the flu include:\n\nFever over 100.4 F (38 C)\nAching muscles\nChills and sweats\nHeadache\nDry, persistent cough\nFatigue and weakness\nNasal congestion\nSore throat"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

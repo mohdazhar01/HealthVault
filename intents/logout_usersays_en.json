@@ -1,0 +1,62 @@
+[
+  {
+    "id": "da81a222-2b13-4088-b670-e4942e47980f",
+    "data": [
+      {
+        "text": "hey i need to look in other account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "087582da-6413-47da-879a-a43ee99dfe95",
+    "data": [
+      {
+        "text": "i want to log out from my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38bb2bbc-a128-43b6-9ee4-8f4ddae291f8",
+    "data": [
+      {
+        "text": "i want to log out",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "510840a8-6b09-49ef-a30f-1d4d5861e691",
+    "data": [
+      {
+        "text": "sign out please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64a42dd7-a6f8-4a83-9f36-d25d19ca38d0",
+    "data": [
+      {
+        "text": "Hey logout me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

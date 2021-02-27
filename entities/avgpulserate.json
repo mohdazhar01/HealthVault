@@ -1,0 +1,9 @@
+{
+  "id": "65059aa1-e05b-4150-8873-7c4906d8fb97",
+  "name": "avgpulserate",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

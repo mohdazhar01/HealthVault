@@ -1,0 +1,134 @@
+[
+  {
+    "id": "0cd83b32-1930-4d9a-b023-597c4e193e59",
+    "data": [
+      {
+        "text": "i want to know my RBS data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d133ccf-1d13-472a-81b4-2fe2e0e4258e",
+    "data": [
+      {
+        "text": "i want to know my RBS values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92442de2-3922-4ccc-8e57-69f9724a284a",
+    "data": [
+      {
+        "text": "display my RBS data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cad60a23-4157-4dc9-aea0-4bf9ceaf4703",
+    "data": [
+      {
+        "text": "display my RBS values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "654a6d03-476b-420e-b064-09d8fe936970",
+    "data": [
+      {
+        "text": "show me my RBS values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "94dbfb38-e0cb-484e-a565-16ea564798cb",
+    "data": [
+      {
+        "text": "show me my RBS data",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "908a9495-6c19-4d77-b501-4486d5213121",
+    "data": [
+      {
+        "text": "tell me my rbs values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eac5602b-2029-44de-9668-2e83e14ce319",
+    "data": [
+      {
+        "text": "tell me rbs values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c86abaa-f47e-4033-a8aa-0794b3e994e3",
+    "data": [
+      {
+        "text": "what are my rbs levels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37545760-d778-4db0-833c-2f62d95de105",
+    "data": [
+      {
+        "text": "show my rbs values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d25d5b75-c7b9-4983-af79-1963cf225070",
+    "data": [
+      {
+        "text": "show my random blood sugar values",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

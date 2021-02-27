@@ -1,0 +1,32 @@
+[
+  {
+    "value": "weightvalue",
+    "synonyms": [
+      "weightvalue"
+    ]
+  },
+  {
+    "value": "weightdata",
+    "synonyms": [
+      "weightdata"
+    ]
+  },
+  {
+    "value": "weightdatabase",
+    "synonyms": [
+      "weightdatabase"
+    ]
+  },
+  {
+    "value": "WEIGHTDATABASE",
+    "synonyms": [
+      "WEIGHTDATABASE"
+    ]
+  },
+  {
+    "value": "weightdb",
+    "synonyms": [
+      "weightdb"
+    ]
+  }
+]

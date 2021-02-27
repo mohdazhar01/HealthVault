@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a4c2abd6-3b6a-4ead-9970-504e80590846",
+    "data": [
+      {
+        "text": "blood glucose level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "670bb15b-6cd3-447a-9ad6-ef262f268286",
+    "data": [
+      {
+        "text": "blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68eff676-9f80-4079-970e-634efae5bad7",
+    "data": [
+      {
+        "text": "blood sugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be7afc3c-224f-4e0e-b5f1-4e7b81842ec1",
+    "data": [
+      {
+        "text": "blood glucose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "222aebb4-15c6-46fa-8bb8-6a9dcda57883",
+    "data": [
+      {
+        "text": "sugar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ef2ee3a-1d4c-4151-90d4-ecab83e5c57d",
+    "data": [
+      {
+        "text": "glucose",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04039dc3-cf46-4cff-8e26-e083b9cf6b1b",
+    "data": [
+      {
+        "text": "sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "048211bb-c9b6-49bc-957b-36f9d991b305",
+    "data": [
+      {
+        "text": "glucose level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "value": "average fasting blood sugar",
+    "synonyms": [
+      "average fasting blood sugar",
+      "avg fasting blood sugar"
+    ]
+  },
+  {
+    "value": "avg fbs",
+    "synonyms": [
+      "avg fbs",
+      "avgfbs",
+      "average fbs"
+    ]
+  },
+  {
+    "value": "average fasting blood glocouse",
+    "synonyms": [
+      "average fasting blood glocouse",
+      "avg fasting blood glocouse"
+    ]
+  }
+]

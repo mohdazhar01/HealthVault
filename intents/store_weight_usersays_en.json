@@ -1,0 +1,150 @@
+[
+  {
+    "id": "d5881ee5-65b6-4f97-84aa-a9f3e783e794",
+    "data": [
+      {
+        "text": "my weight is ",
+        "userDefined": false
+      },
+      {
+        "text": "80",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41cec111-bd91-4a54-bad2-587537bf4cce",
+    "data": [
+      {
+        "text": "60",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kgs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c4f1e348-1b3e-4005-826c-25d780b6c49c",
+    "data": [
+      {
+        "text": "55",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kgs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f3088c6-38eb-4fbb-b622-e1af69d63255",
+    "data": [
+      {
+        "text": "65",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kilo gram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a3f658b-1c5d-4753-9d76-f36a259336d4",
+    "data": [
+      {
+        "text": "72",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kilo grams",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0b8e282-0eb9-4ac3-b353-532976b9bd5b",
+    "data": [
+      {
+        "text": "105",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kgs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dddcd16f-5f4d-4cc7-b3db-11a442de954a",
+    "data": [
+      {
+        "text": "95",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kilograms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ca5b7e5-8c04-49db-9139-0dbe780478e5",
+    "data": [
+      {
+        "text": "85",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " kg",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

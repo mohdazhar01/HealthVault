@@ -1,0 +1,36 @@
+{
+  "id": "de5e7dc6-51ee-47e3-8398-03cdb45c2d26",
+  "name": "enter_BP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Enter you Blood Pressure in the format : 120/80, 130/85",
+            "Please Enter you Blood Pressure in the format : 120/80, 130/85",
+            "Enter you BP in the format : 120/80, 130/85",
+            "Please Enter you BP in the format : 120/80, 130/85"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

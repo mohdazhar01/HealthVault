@@ -1,0 +1,322 @@
+[
+  {
+    "id": "cb238be8-c4ba-483b-bb5e-be5ab6f0806a",
+    "data": [
+      {
+        "text": "previous month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg wt",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39a306ca-ab91-4238-8ecd-54e24353ae35",
+    "data": [
+      {
+        "text": "previous month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average wt",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80786aec-4cd0-4d24-ba3e-619587490e4f",
+    "data": [
+      {
+        "text": "last month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average wt",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3c83dd2-4245-4456-8099-d9ff0e55e13b",
+    "data": [
+      {
+        "text": "last month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0015e39c-cfc7-4435-9590-3354155f8c14",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de90e80a-3cc0-4da7-8750-13de22a7eac0",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "819c3b7c-7d8c-4be2-87d0-0901844fa929",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average wt",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6efbd8b6-ef38-4de6-91a2-a078e498736b",
+    "data": [
+      {
+        "text": "last month\u0027s",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "28207a34-6fc6-40bc-9a7a-b834e6165578",
+    "data": [
+      {
+        "text": "Last month\u0027s",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "AVG weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50cfb0ae-8e21-4472-9a05-11d39202b8c4",
+    "data": [
+      {
+        "text": "i want to know my ",
+        "userDefined": false
+      },
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf583b15-6cf5-43ca-9dc7-a32e185a7f76",
+    "data": [
+      {
+        "text": "tell me my ",
+        "userDefined": false
+      },
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "630232d3-64a5-4456-b3c3-2656236e0fbc",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg wt",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eeb12c9a-beb0-44fb-aa64-7a828fb2a383",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average weight",
+        "alias": "avgweight",
+        "meta": "@avgweight",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

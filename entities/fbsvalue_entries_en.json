@@ -1,0 +1,32 @@
+[
+  {
+    "value": "fasting blood sugar",
+    "synonyms": [
+      "fasting blood sugar",
+      "FASTING BLOOD SUGAR"
+    ]
+  },
+  {
+    "value": "FBS",
+    "synonyms": [
+      "FBS",
+      "fbs"
+    ]
+  },
+  {
+    "value": "fbs level",
+    "synonyms": [
+      "fbs level",
+      "FBS LEVEL",
+      "FBS level"
+    ]
+  },
+  {
+    "value": "fbs value",
+    "synonyms": [
+      "fbs value",
+      "FBS value",
+      "FBS VALUE"
+    ]
+  }
+]

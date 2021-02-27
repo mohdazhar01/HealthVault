@@ -1,0 +1,59 @@
+{
+  "id": "3a182195-0395-4e59-bd51-68e8aac675c9",
+  "name": "store_BP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c13c9cd-2cf0-493f-9234-899b0955d130",
+          "required": false,
+          "dataType": "@read_bp_val",
+          "name": "read_bp_val",
+          "value": "$read_bp_val",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "25276240-8238-4461-8aa2-e0b34040e947",
+          "required": false,
+          "dataType": "@bpunit",
+          "name": "bpunit",
+          "value": "$bpunit",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Your Blood Pressure $read_bp_val mm of Hg is Saved!",
+            "Your Blood Pressure $read_bp_val mm of Hg is Noted!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

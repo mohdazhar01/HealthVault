@@ -1,0 +1,44 @@
+{
+  "id": "bf8d9bee-d3a5-4f11-9e0b-cfd974282bfb",
+  "name": "store_pulse",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "58b5215b-e083-4eee-a7dd-ac6a21a94804",
+          "required": false,
+          "dataType": "@pulse_val",
+          "name": "pulse_val",
+          "value": "$pulse_val",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Your Pulse Rate $pulse_val Beats per minute is noted!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

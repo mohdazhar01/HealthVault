@@ -1,0 +1,74 @@
+[
+  {
+    "id": "86750a2f-66a3-42e5-b9da-7b1d59130867",
+    "data": [
+      {
+        "text": "Save Pulse Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "38768793-16b3-421e-a3d5-541028c690f2",
+    "data": [
+      {
+        "text": "Store Pulse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0aee62dd-6661-49dc-bdc9-d00c7fc0fb95",
+    "data": [
+      {
+        "text": "Enter Pulse Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f29ba23-6595-4c52-b9f6-067d1d5c7599",
+    "data": [
+      {
+        "text": "Enter pulse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89eb311d-13d2-4171-8d16-a6ced4751e25",
+    "data": [
+      {
+        "text": "Enter PR",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f470b98-8c66-4e3d-9f47-f7845fa6cf77",
+    "data": [
+      {
+        "text": "Store Pulse Rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

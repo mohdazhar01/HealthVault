@@ -1,0 +1,9 @@
+{
+  "id": "8fe9a520-8cac-4154-b223-8b76033e83a0",
+  "name": "medicine",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

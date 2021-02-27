@@ -1,0 +1,221 @@
+[
+  {
+    "id": "9c71b4d9-b4af-42de-aa39-0dc60d1a19be",
+    "data": [
+      {
+        "text": "my random blood sugar is ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rbs",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "975a461a-5b22-47e2-a05e-65dd2abc8180",
+    "data": [
+      {
+        "text": "my random blood sugar value is ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "rbs",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43e76cce-c49a-4691-bc3c-dc43464f03bb",
+    "data": [
+      {
+        "text": "store my ",
+        "userDefined": false
+      },
+      {
+        "text": "45",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "random blood sugar",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      },
+      {
+        "text": " level for  ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fecec672-d635-4eab-976a-977285a2a1ac",
+    "data": [
+      {
+        "text": "95",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "RBS",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f9a26ce-be2b-40c7-9cc1-e7ce2010b32e",
+    "data": [
+      {
+        "text": "100",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "rbs",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "345f04a2-1968-4a7f-9dd2-214aa2acc606",
+    "data": [
+      {
+        "text": "100",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mg/dl is",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      },
+      {
+        "text": " my ",
+        "userDefined": false
+      },
+      {
+        "text": "rbs",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "043341b0-38fc-4e36-b003-79bb86847f45",
+    "data": [
+      {
+        "text": "95",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": "mg/dl",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      },
+      {
+        "text": " rbs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80757145-e458-40a5-a46c-bc666a4587de",
+    "data": [
+      {
+        "text": "80",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Rbs",
+        "alias": "rbsvalue",
+        "meta": "@rbsvalue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

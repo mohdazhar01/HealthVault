@@ -1,0 +1,150 @@
+[
+  {
+    "id": "219d04bb-69b9-4e67-be62-6d3413c81256",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg RBS",
+        "alias": "avgrbs",
+        "meta": "@avgrbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3cdcbb0-f606-4e01-bab3-b61afa0cef74",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg RBS",
+        "alias": "avgrbs",
+        "meta": "@avgrbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b31b23d2-af8f-4e34-a142-4f41b3934a28",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "avg random blood sugar",
+        "alias": "avgrbs",
+        "meta": "@avgrbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "948d8c10-48c4-467f-8a20-0d634ad72100",
+    "data": [
+      {
+        "text": "previous months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average random blood sugar",
+        "alias": "avgrbs",
+        "meta": "@avgrbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "30db074d-7d52-4570-9d39-4b5d5d6c6e3a",
+    "data": [
+      {
+        "text": "last months",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average random blood sugar",
+        "alias": "avgrbs",
+        "meta": "@avgrbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9846d2a-be88-4718-a0db-e4726988e707",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "last month\u0027s",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "average random blood sugar",
+        "alias": "avgrbs",
+        "meta": "@avgrbs",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

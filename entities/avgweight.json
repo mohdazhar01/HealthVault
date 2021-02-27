@@ -1,0 +1,9 @@
+{
+  "id": "0eb2a6f8-353b-4867-bbaa-fed1ab2a5bfb",
+  "name": "avgweight",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

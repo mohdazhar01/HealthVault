@@ -1,0 +1,50 @@
+[
+  {
+    "id": "96369c3e-a56d-43cf-9079-c973f8f640f9",
+    "data": [
+      {
+        "text": "i want to know about diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c47c4032-7d03-4192-8bb7-173b0bc88445",
+    "data": [
+      {
+        "text": "tell me about diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49cf3ef2-ec1f-43e1-92b0-4c5abba4dc9c",
+    "data": [
+      {
+        "text": "what is diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48cb15ee-391d-40a0-b0bb-59a11ece153f",
+    "data": [
+      {
+        "text": "whats diabetes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

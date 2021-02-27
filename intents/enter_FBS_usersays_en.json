@@ -1,0 +1,110 @@
+[
+  {
+    "id": "3e07f3f4-a61e-49dc-9b38-73004be30a71",
+    "data": [
+      {
+        "text": "save my fbs level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b10e2828-30c2-4316-9ee5-aa4c35d16a2b",
+    "data": [
+      {
+        "text": "store my fbs level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80289b70-410b-4b78-a413-981414fa610d",
+    "data": [
+      {
+        "text": "store my fasting blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54ff2771-fbd0-4bdc-95a0-4ca9d9bce0a8",
+    "data": [
+      {
+        "text": "store fasting blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ea5618a-5dfe-4dac-9b4f-7eff862ede5d",
+    "data": [
+      {
+        "text": "store FBS level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5663438a-2937-4bf9-9c51-54dbbc17b263",
+    "data": [
+      {
+        "text": "store FBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dcffbeed-c722-4aee-89ea-db2f569865cf",
+    "data": [
+      {
+        "text": "note down my FBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66c71640-e298-447e-aab1-dfa68e7ff41b",
+    "data": [
+      {
+        "text": "save my FBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b2838a50-7976-4761-89b4-3adcbac60fd7",
+    "data": [
+      {
+        "text": "note down my fasting blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

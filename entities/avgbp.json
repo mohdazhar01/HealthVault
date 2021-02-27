@@ -1,0 +1,9 @@
+{
+  "id": "ffcea015-e184-49d8-bd05-68d2f2344156",
+  "name": "avgbp",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

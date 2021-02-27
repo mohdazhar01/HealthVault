@@ -1,0 +1,9 @@
+{
+  "id": "b112cd39-d8ca-40b6-a03f-961f8488f5c6",
+  "name": "fbsvalue",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

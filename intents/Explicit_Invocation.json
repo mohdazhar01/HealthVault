@@ -1,0 +1,92 @@
+{
+  "id": "a195b7a0-bc3a-46a0-8195-9a87692739ac",
+  "name": "Explicit_Invocation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "list_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "Please Select One",
+          "subtitle": "",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "1",
+                "synonyms": []
+              },
+              "title": "Blood Pressure",
+              "description": "",
+              "image": {
+                "url": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2014/05/bloodPressureMeds-636209034-770x553-1-650x428.jpg",
+                "accessibilityText": "Blood Pressure in mm of Hg"
+              }
+            },
+            {
+              "optionInfo": {
+                "key": "2",
+                "synonyms": []
+              },
+              "title": "Blood Sugar",
+              "description": "",
+              "image": {
+                "url": "https://2rdnmg1qbg403gumla1v9i2h-wpengine.netdna-ssl.com/wp-content/uploads/sites/3/2019/11/bloodSugarLevels-648572566-770x553-650x428.jpg",
+                "accessibilityText": "Blood Sugar in mg/dL"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Weight"
+            },
+            {
+              "title": "Pulse Rate"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Login Successful! Welcome! How may I help you?",
+            "Access Granted! Welcome! How may I help you?",
+            "Login Verified! Welcome! How may I help you?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "example"
+    },
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

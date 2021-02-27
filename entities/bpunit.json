@@ -1,0 +1,9 @@
+{
+  "id": "2844b170-bbca-47d2-9dcb-d494a888a3b2",
+  "name": "bpunit",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

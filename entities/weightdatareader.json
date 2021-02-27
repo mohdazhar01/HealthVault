@@ -1,0 +1,9 @@
+{
+  "id": "828a5756-6244-4a3d-9097-5bbe5988dbc0",
+  "name": "weightdatareader",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

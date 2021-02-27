@@ -1,0 +1,31 @@
+{
+  "id": "44da4a16-28af-4628-9787-ab331f3f76d2",
+  "name": "malaria_sym",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The initial symptoms of malaria are flu-like and include:\n\na high temperature of 38C or above\nfeeling hot and shivery\nheadaches\nvomiting\nmuscle pains\ndiarrhoea\ngenerally feeling unwell, Please consult a doctor if you experience these symptoms."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

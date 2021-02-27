@@ -1,0 +1,9 @@
+{
+  "id": "5318674a-21b5-483a-9204-3f1794ccbcc9",
+  "name": "pulse_val",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": true,
+  "allowFuzzyExtraction": true
+}

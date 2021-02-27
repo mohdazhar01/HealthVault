@@ -1,0 +1,401 @@
+[
+  {
+    "id": "92d115fe-cad3-4b65-8fb9-d77f11db5d57",
+    "data": [
+      {
+        "text": "170/110",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c72fc75-c74d-43a0-87f7-246fddca7a67",
+    "data": [
+      {
+        "text": "160/105",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05adb9b5-e0b1-48c5-9150-6ae254c4a5c5",
+    "data": [
+      {
+        "text": "156/102",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed84950d-0be2-43d1-a753-8cf70bd77081",
+    "data": [
+      {
+        "text": "120/80",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5917041-ddc8-4776-ac20-436e47346c98",
+    "data": [
+      {
+        "text": "130/89",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7133c336-e3d3-4fed-853a-72544e90ff68",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "blood pressure level",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "120/80",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01c9aded-cde9-443e-9d31-ae5ad8b76ec3",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "blood pressure",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "99/80",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mmHg",
+        "alias": "bpunit",
+        "meta": "@bpunit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bd91ec2-7aee-43b1-8b74-9552b9244ec4",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "bp",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "129/90",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cfe3367-b2e4-443d-a791-5d2c5e0a077c",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "BP",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "120/100",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18a9b703-4085-444a-a184-6c91f2a27a0b",
+    "data": [
+      {
+        "text": "my ",
+        "userDefined": false
+      },
+      {
+        "text": "bp value",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is ",
+        "userDefined": false
+      },
+      {
+        "text": "120/80",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "194cb051-8a49-4c90-980a-3d38d400cce2",
+    "data": [
+      {
+        "text": "130/70",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cc9d331-37e4-437d-b34d-93ff39ea4130",
+    "data": [
+      {
+        "text": "130/85",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57a57848-2a23-4ece-8a3d-ec7444835d7d",
+    "data": [
+      {
+        "text": "145/90",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f0117ae-a316-4612-8843-d87915a7f19e",
+    "data": [
+      {
+        "text": "150/80",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f82f726-2757-4b21-a14a-c1e014eac4e2",
+    "data": [
+      {
+        "text": "110/70",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4ab7645-ed39-4b90-b664-53f16218d15b",
+    "data": [
+      {
+        "text": "135/85",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d76332b4-6eab-4cfe-a302-0b242fdeecd5",
+    "data": [
+      {
+        "text": "150/102",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mm",
+        "alias": "bpunit",
+        "meta": "@bpunit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a9c1ddd-60ed-42fd-95f1-6f72878ddded",
+    "data": [
+      {
+        "text": "120/70",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "343863f5-bffb-4b67-99b2-b2ce42b78713",
+    "data": [
+      {
+        "text": "140/120",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44411bb4-a0fc-4b21-9e86-ac7db5b52134",
+    "data": [
+      {
+        "text": "120/80",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mm of hg",
+        "alias": "bpunit",
+        "meta": "@bpunit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41818435-5bc9-4252-b155-c2c10c1761d3",
+    "data": [
+      {
+        "text": "140/100",
+        "alias": "read_bp_val",
+        "meta": "@read_bp_val",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mm of Hg",
+        "alias": "bpunit",
+        "meta": "@bpunit",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

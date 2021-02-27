@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ce663f76-5ff3-462d-bc62-4a09b0635743",
+    "data": [
+      {
+        "text": "note down my random blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45aea09a-627c-41eb-8e98-a4ab3d0f4046",
+    "data": [
+      {
+        "text": "store random blood glucose level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c463965-5220-4882-a0bb-0485f9a911b1",
+    "data": [
+      {
+        "text": "note down my RBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d38b03b9-e17c-45d1-9d66-f948c296b459",
+    "data": [
+      {
+        "text": "store RBS",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18e9cdb2-1d06-42fc-8d05-ed7987c2b990",
+    "data": [
+      {
+        "text": "store RBS level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "96d0f222-9908-4893-beb2-5d1a728945ca",
+    "data": [
+      {
+        "text": "Store random blood sugar level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
